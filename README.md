@@ -8,10 +8,9 @@ I'm a developer and engineering student focused on building efficient, data-driv
 ### 🛠 Tech Stack
 
 ### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=333)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=333)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=333)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=333)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,py,cpp,bash,androidstudio,linux,git,aws&theme=dark" />
+</p>
 
 **Tools & Environment**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
