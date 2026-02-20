@@ -41,16 +41,11 @@ I'm a developer and engineering student focused on building efficient, data-driv
 
 ### 📊 GitHub Activity
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=maheem-alhafiz&show_icons=true&theme=radical&hide_border=true" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheem-alhafiz&layout=compact&theme=radical&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+&nbsp;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheem-alhafiz&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheem-alhafiz&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
