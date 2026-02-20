@@ -7,12 +7,27 @@ I'm a developer and engineering student focused on building efficient, data-driv
 
 ### 🛠 Tech Stack
 
+### 🛠 Tech Stack
 <p align="left">
-  <a href="https://github.com/Maheem">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&width=435&lines=Computer+Engineering+Student;Android+Dev+(Kotlin%2FJava);UMSAE+Formula+Team;Personal+Finance+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Kotlin-white?style=flat&logo=kotlin&logoColor=purple" />
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C++-white?style=flat&logo=c%2B%2B&logoColor=00599C" />
 </p>
-</p>
+
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=333)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=333)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=333)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=333)
+
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
 
 **Tools & Environment**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
