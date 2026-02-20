@@ -7,12 +7,11 @@ I'm a developer and engineering student focused on building efficient, data-driv
 
 ### 🛠 Tech Stack
 
-### 🛠 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Kotlin-white?style=flat&logo=kotlin&logoColor=purple" />
-  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/C++-white?style=flat&logo=c%2B%2B&logoColor=00599C" />
+  <a href="https://github.com/Maheem">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&width=435&lines=Computer+Engineering+Student;Android+Dev+(Kotlin%2FJava);UMSAE+Formula+Team;Personal+Finance+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 </p>
 
 **Tools & Environment**
