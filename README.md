@@ -1,38 +1,38 @@
-# Abdul Mueed Midhat Al Hafiz (Maheem) 👋
+# Hi there, I'm Maheem 👋
 **Computer Engineering Student @ University of Manitoba | Co-op Candidate**
 
----
-
-### 💻 Technical Skills (Mirrored from Resume)
-* **Languages:** Java (Data Structures, OOP), Kotlin (Android SDK), C/C++ (Embedded), Python, Bash
-* **Mobile & Frameworks:** Jetpack Compose, MVVM Architecture, Reactive State Management, UI/UX Design Patterns
-* **Engineering Hardware:** Digital Circuit Design, Oscilloscopes, Multimeters, Arduino Microcontrollers
-* **Tools & Environment:** Git, Android Studio, IntelliJ, VS Code, WSL2, OAuth 2.0, REST APIs
-* **Core Concepts:** Fault Handling, Clean Architecture, System Interoperability, Hardware-Software Integration
+I'm a developer and engineering student focused on building efficient, data-driven applications. Currently, I'm refining my skills in Android development and contributing to the UMSAE Formula team.
 
 ---
 
-### 🚀 Projects & Research
-#### [Wealth Journal](https://github.com/Maheem/Wealth-Journal) 📱
-* **Tech:** Kotlin, Java, Jetpack Compose, MVVM
-* Refactored a Java-based CLI finance tool into a native Android app using reactive state management.
+### 🛠 Tech Stack
 
-#### [OpenClaw (Personal AI Assistant)](https://github.com/Maheem/OpenClaw) 🤖
-* **Tech:** Linux, Node.js, Bash, OAuth 2.0
-* Deployed a self-hosted Gemini-powered agent on WSL2 with a custom Bash middleware shim for API orchestration.
+**Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### [Vauxhall Solar Farm Analysis](https://github.com/Maheem/Vauxhall-Solar) ☀️
-* **Focus:** Applied Engineering Analysis
-* Conducted efficiency analysis and grid integration reporting for a large-scale photovoltaic utility.
+**Tools & Environment**
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### [UMSAE Formula Electric](https://github.com/Maheem/UMSAE-Electric) 🏎️
-* Contributing to the fabrication of safety-critical powertrain components and mechanical analysis.
+---
+
+### 🚀 Featured Projects
+
+- **[Wealth Journal](https://github.com/YOUR_ACTUAL_USERNAME/Wealth-Journal)**: Engineered a data-driven backend using custom Java data structures to store transaction records, then migrated the system to a native Android app using Kotlin and Jetpack Compose.
+- **[OpenClaw](https://github.com/YOUR_ACTUAL_USERNAME/OpenClaw)**: Deployed a self-hosted AI agent on Ubuntu/WSL2, integrating Gemini LLM and using a custom Bash wrapper script to bridge CLI tools for calendar automation.
+- **[UMSAE Formula Team](https://github.com/YOUR_ACTUAL_USERNAME/UMSAE)**: Collaborating on the fabrication of safety-critical powertrain components and mechanical disassembly for performance analysis.
 
 ---
 
 ### 📊 GitHub Activity
-![Maheem's Stats](https://github-readme-stats.vercel.app/api?username=Maheem&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheem&layout=compact&theme=radical)
+
+![Maheem's Stats](https://github-readme-stats.vercel.app/api?username=maheem-alhafiz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheem-alhafiz&layout=compact&theme=radical)
 
 ---
 
