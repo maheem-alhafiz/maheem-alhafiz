@@ -5,6 +5,22 @@ I'm a developer and engineering student focused on building efficient, data-driv
 
 ---
 
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠 Tech Stack</h3>
+      <img src="https://img.shields.io/badge/Java-%23333?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /><br>
+      <img src="https://img.shields.io/badge/Kotlin-%23333?style=for-the-badge&logo=kotlin&logoColor=7F52FF" /><br>
+      <img src="https://img.shields.io/badge/Python-%23333?style=for-the-badge&logo=python&logoColor=3776AB" /><br>
+      <img src="https://img.shields.io/badge/Bash-%23333?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 ### 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23333?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
