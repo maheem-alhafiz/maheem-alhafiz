@@ -5,57 +5,24 @@ I'm a developer and engineering student focused on building efficient, data-driv
 
 ---
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠 Tech Stack</h3>
-      <img src="https://img.shields.io/badge/Java-%23333?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /><br>
-      <img src="https://img.shields.io/badge/Kotlin-%23333?style=for-the-badge&logo=kotlin&logoColor=7F52FF" /><br>
-      <img src="https://img.shields.io/badge/Python-%23333?style=for-the-badge&logo=python&logoColor=3776AB" /><br>
-      <img src="https://img.shields.io/badge/Bash-%23333?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+### 🛠 Technical Skills
 
-### 🛠 Tech Stack
+**Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-%23333?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Kotlin](https://img.shields.io/badge/Kotlin-%23333?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Python](https://img.shields.io/badge/Python-%23333?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-%23333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Bash](https://img.shields.io/badge/Bash-%23333?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%23333?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Kotlin-white?style=flat&logo=kotlin&logoColor=purple" />
-  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/C++-white?style=flat&logo=c%2B%2B&logoColor=00599C" />
-</p>
-
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=333)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=333)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=333)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=333)
-
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
+**Engineering Hardware**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Circuit Design](https://img.shields.io/badge/-Digital%20Circuit%20Design-414141?style=for-the-badge)
 
 **Tools & Environment**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
