@@ -39,6 +39,18 @@ I'm a developer and engineering student focused on building efficient, data-driv
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=maheem-alhafiz&theme=radical&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 📊 Top Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheem-alhafiz&layout=compact&theme=radical&hide_border=true" />
+</p>
+
 ### 📊 GitHub Activity
 
 &nbsp;
