@@ -7,6 +7,13 @@ I'm a developer and engineering student focused on building efficient, data-driv
 
 ### 🛠 Tech Stack
 
+![Java](https://img.shields.io/badge/Java-%23333?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23333?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Python](https://img.shields.io/badge/Python-%23333?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-%23333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Bash](https://img.shields.io/badge/Bash-%23333?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%23333?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=orange" />
