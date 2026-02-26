@@ -33,7 +33,7 @@ I'm a developer and engineering student focused on building efficient, data-driv
 
 ### 🚀 Featured Projects
 
-- **[Wealth Journal](https://github.com/maheem-alhafiz/Wealth-Journal)**: Engineered a data-driven backend using custom Java data structures to store transaction records, then migrated the system to a native Android app using Kotlin and Jetpack Compose.
+- **[Wealth Journal](https://github.com/maheem-alhafiz/WealthJournal)**: Engineered a data-driven backend using custom Java data structures to store transaction records, then migrated the system to a native Android app using Kotlin and Jetpack Compose.
 - **[OpenClaw](https://github.com/YOUR_ACTUAL_USERNAME/OpenClaw)**: Deployed a self-hosted AI agent on Ubuntu/WSL2, integrating Gemini LLM and using a custom Bash wrapper script to bridge CLI tools for calendar automation.
 
 ---
